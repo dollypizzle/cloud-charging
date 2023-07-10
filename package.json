@@ -1,0 +1,18 @@
+{
+  "description": "",
+  "author": "Segun Ojo <theuncleshege@gmail.com>",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "memcached": "^2.2.2",
+    "redis": "3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.19",
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
